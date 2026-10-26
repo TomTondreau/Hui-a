@@ -1,0 +1,6 @@
+{
+  "name": "HUIÑA app",
+  "description": "Aplicación móvil unificada de estudio estilo Firewatch para capturar, sintetizar y organizar recursos de video.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
